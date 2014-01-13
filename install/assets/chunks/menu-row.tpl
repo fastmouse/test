@@ -1,7 +1,7 @@
 /**
  * menu-row
  * 
- * 
+ * tpl для меню
  * 
  * @category        chunk
  * @version         0.1
