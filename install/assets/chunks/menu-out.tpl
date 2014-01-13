@@ -1,12 +1,12 @@
 /**
- * 
+ * menu-out
  * 
  * 
  * 
  * @category        chunk
  * @version         0.1
- * @license         
- * @internal    @menu
+ * @license        
+ * @internal @modx_category menu
  * @internal    @installset base
  * @internal    @overwrite false
  */
